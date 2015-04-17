@@ -1,0 +1,7 @@
+control:manual
+manualFoggers:8
+manualFan:70
+autoHumidity:85
+autoFoggers:10
+autoCO2:30000
+autoFan:50
